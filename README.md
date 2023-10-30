@@ -42,9 +42,14 @@ After script is completed, run:
 Seeds database with initial data.\
 After script is completed, run:
 
+### `php bin/console lexik:jwt:generate-keypair`
+
+Generates keypair.\
+After script is completed, run:
+
 ### `symfony server:start --no-tls`
 
-Runs Symfony server on [http://localhost:8000](http://localhost:8000).\
+Runs Symfony server on [http://localhost:8000](http://localhost:8000).
 
 **Note: Login credentials are `username: user{id}` and `password: password{id}`, for example: `user1, password1`**
 
