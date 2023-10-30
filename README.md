@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## Installing and running backend
 
 PHP used `8.2.11`\
-One the `./back` directory, and run:
+Open the `./back` directory, and run:
 
 ### `composer install`
 
